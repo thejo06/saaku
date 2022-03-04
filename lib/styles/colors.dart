@@ -4,7 +4,7 @@ class AppColors {
   static const Color mainGrey = Color(0xFF8E939D);
   static const Color secondGrey = Color(0xFFB9B7BC);
   static const Color mainBlue = Color(0xFF4471ED);
-  static const Color activitiesCardBg = Color(0xFFF8FAFB);
+  static const Color activitiesCardBg = Color(0xFFF0F4FF);
   static const Color grey = Color(0xFFD8E1FF);
   static const Color black = Color(0xFF000000);
   static const Color white = Color(0xFFFFFFFF);

@@ -1,6 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 
+import 'colors.dart';
+
 class AppTheme {
   static TextStyle regular12 = GoogleFonts.poppins(
     fontSize: 12,
@@ -21,6 +23,7 @@ class AppTheme {
   static TextStyle medium18 = GoogleFonts.poppins(
     fontSize: 18,
     fontWeight: FontWeight.w500,
+    color: AppColors.black,
   );
 
   static TextStyle medium20 = GoogleFonts.poppins(
